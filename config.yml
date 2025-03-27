@@ -1,0 +1,5 @@
+temp_dir:  "/tmp/spark-iceberg-benchmark"
+bucket: "test_bucket"
+catalog: "glue"
+namespace: "benchmark"
+table_name: "test_table"
